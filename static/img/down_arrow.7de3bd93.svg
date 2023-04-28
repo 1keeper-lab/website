@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>语言下拉箭头</title>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-1-keeper-Web-design-" transform="translate(-1293.000000, -34.000000)">
+            <g id="语言下拉箭头" transform="translate(1293.000000, 34.000000)">
+                <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                <path d="M14.75,4 C15.1296958,4 15.443491,4.28215388 15.4931534,4.64822944 L15.5,4.75 L15.5,12.75 C15.5,13.6681734 14.7928897,14.4211923 13.8935272,14.4941988 L13.75,14.5 L5.75,14.5 C5.33578644,14.5 5,14.1642136 5,13.75 C5,13.3703042 5.28215388,13.056509 5.64822944,13.0068466 L5.75,13 L13.75,13 C13.8683467,13 13.9674868,12.9177666 13.9933973,12.8073227 L14,12.75 L14,4.75 C14,4.33578644 14.3357864,4 14.75,4 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero" transform="translate(10.250000, 9.250000) rotate(45.000000) translate(-10.250000, -9.250000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

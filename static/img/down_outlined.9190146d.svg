@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>收起</title>
+    <g id="页面-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-1-keeper-Web-design-" transform="translate(-1236.000000, -7517.000000)">
+            <g id="收起" transform="translate(1236.000000, 7517.000000)">
+                <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16" rx="1"></rect>
+                <path d="M12,4 C12.5522847,4 13,4.44771525 13,5 C13,5.51283584 12.6139598,5.93550716 12.1166211,5.99327227 L12,6 L5,6 L5,13 C5,13.5128358 4.61395981,13.9355072 4.11662113,13.9932723 L4,14 C3.48716416,14 3.06449284,13.6139598 3.00672773,13.1166211 L3,13 L3,5 C3,4.48716416 3.38604019,4.06449284 3.88337887,4.00672773 L4,4 L12,4 Z" fill="#FFFFFF" fill-rule="nonzero" transform="translate(8.000000, 9.000000) rotate(45.000000) translate(-8.000000, -9.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
